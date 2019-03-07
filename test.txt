@@ -3,3 +3,4 @@ git is free
 再添加一行
 继续添加
 git has a mutable index named stage
+git tracks change
