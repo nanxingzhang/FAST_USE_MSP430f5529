@@ -4,3 +4,6 @@ git is free
 继续添加
 git has a mutable index named stage
 git tracks change
+little change 
+nochange
+this change
