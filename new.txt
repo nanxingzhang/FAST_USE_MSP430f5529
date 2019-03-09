@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 
 hello
+=======
+hello
+public static void main string
+>>>>>>> Stashed changes
